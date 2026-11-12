@@ -1,0 +1,410 @@
+[
+  {
+    "date": "2026-11-04",
+    "theme": "Science",
+    "emoji": "🧪",
+    "questions": [
+      {
+        "question": "Which element has the chemical symbol Hg?",
+        "answers": ["mercury"],
+        "hint": "It's the liquid metal in old thermometers",
+        "note": "Hg comes from the Greek \"hydrargyrum\", meaning liquid silver."
+      },
+      {
+        "question": "Which organ in your body makes insulin?",
+        "answers": ["pancreas", "the pancreas"],
+        "hint": "It sits tucked behind your stomach",
+        "note": "It also makes juices that help you digest food."
+      },
+      {
+        "question": "Gregor Mendel figured out the basics of genetics by experimenting on which plant?",
+        "answers": ["peas", "pea", "pea plants", "pea plant", "pea plants"],
+        "hint": "They're green and come in pods",
+        "note": "He was a monk and grew almost 30,000 pea plants for his experiments."
+      },
+      {
+        "question": "What's the softest mineral in the world?",
+        "answers": ["talc", "talcum"],
+        "hint": "It's what baby powder is made from",
+        "note": "It's a 1 on the hardness scale. Diamond is a 10."
+      },
+      {
+        "question": "If you study entomology, what are you studying?",
+        "answers": ["insects", "bugs", "insect", "bug"],
+        "hint": "🐜🐞🦋",
+        "note": "Scientists think there are about 10 quintillion insects alive at any moment."
+      }
+    ]
+  },
+  {
+    "date": "2026-11-05",
+    "theme": "History",
+    "emoji": "📜",
+    "questions": [
+      {
+        "question": "Which ancient general famously marched war elephants over the Alps to attack Rome?",
+        "answers": ["Hannibal", "Hannibal Barca"],
+        "hint": "Same first name as a famous movie cannibal",
+        "note": "He did it in 218 BC. Most of the elephants didn't survive the war."
+      },
+      {
+        "question": "What was the first sport ever played on the Moon?",
+        "answers": ["golf"],
+        "hint": "It's played with clubs ⛳",
+        "note": "Astronaut Alan Shepard hit two golf balls there during Apollo 14 in 1971."
+      },
+      {
+        "question": "The Great Fire of London in 1666 started in a bakery on which street?",
+        "answers": ["Pudding Lane", "Pudding", "Pudding Street"],
+        "hint": "It sounds like a dessert 🍮",
+        "note": "The fire burned for four days and destroyed most of the city."
+      },
+      {
+        "question": "What was the nickname of WWI fighter pilot Manfred von Richthofen?",
+        "answers": ["The Red Baron", "Red Baron"],
+        "hint": "His plane was painted bright red",
+        "note": "He's also the pilot Snoopy is always battling in Peanuts."
+      },
+      {
+        "question": "The 1400s civil wars between England's Houses of York and Lancaster are called the Wars of the… what?",
+        "answers": ["Roses", "rose", "wars of the roses"],
+        "hint": "It's a flower 🌹",
+        "note": "They were a big inspiration for Game of Thrones."
+      }
+    ]
+  },
+  {
+    "date": "2026-11-06",
+    "theme": "Animals",
+    "emoji": "🐾",
+    "questions": [
+      {
+        "question": "What color is a polar bear's skin underneath its fur?",
+        "answers": ["black"],
+        "hint": "Probably the opposite of what you'd guess",
+        "note": "Their fur isn't really white either. It's see-through!"
+      },
+      {
+        "question": "What's the name for a group of bears?",
+        "answers": ["sloth", "sleuth", "a sloth", "a sleuth"],
+        "hint": "It's also the name of a very slow animal 🦥",
+        "note": "A group of owls is called a parliament."
+      },
+      {
+        "question": "Cashmere wool comes from which animal?",
+        "answers": ["goat", "goats", "cashmere goat", "cashmere goats"],
+        "hint": "It has a little beard and loves to climb",
+        "note": "One goat only makes a few ounces of cashmere a year. That's why it's so pricey."
+      },
+      {
+        "question": "What kind of animal is a natterjack?",
+        "answers": ["toad", "a toad", "natterjack toad"],
+        "hint": "It hops, and it's not a frog",
+        "note": "Its call can be heard from over a mile away."
+      },
+      {
+        "question": "What's the largest species of penguin?",
+        "answers": ["emperor", "emperor penguin", "emperor penguins"],
+        "hint": "It has a royal-sounding name 👑",
+        "note": "They can grow almost 4 feet tall."
+      }
+    ]
+  },
+  {
+    "date": "2026-11-07",
+    "theme": "Movies",
+    "emoji": "🎬",
+    "questions": [
+      {
+        "question": "In Cast Away, what does Tom Hanks name his volleyball?",
+        "answers": ["Wilson"],
+        "hint": "It's named after the brand on the ball 🏐",
+        "note": "WILSONNN 😭"
+      },
+      {
+        "question": "\"Nobody puts Baby in a corner\" is a line from which movie?",
+        "answers": ["Dirty Dancing"],
+        "hint": "Patrick Swayze, and a famous lift in a lake",
+        "note": "It came out in 1987 and people still try that lift at weddings."
+      },
+      {
+        "question": "In Back to the Future, how fast does the DeLorean have to go to travel through time?",
+        "answers": ["88 mph", "88", "88 miles per hour", "88mph", "eighty eight", "eighty eight mph", "eighty eight miles per hour"],
+        "hint": "Somewhere between 80 and 90 mph",
+        "note": "Plus 1.21 gigawatts of electricity ⚡"
+      },
+      {
+        "question": "In Finding Nemo, what's the name of Nemo's mom?",
+        "answers": ["Coral"],
+        "hint": "It's something you'd find on a reef",
+        "note": "Only in the first two minutes, and it still hurts."
+      },
+      {
+        "question": "Who voices Po in the Kung Fu Panda movies?",
+        "answers": ["Jack Black"],
+        "hint": "He's also the teacher in School of Rock",
+        "note": "He also voiced Bowser in The Super Mario Bros. Movie."
+      }
+    ]
+  },
+  {
+    "date": "2026-11-08",
+    "theme": "Geography",
+    "emoji": "🌍",
+    "questions": [
+      {
+        "question": "What was the city of Istanbul called before it was Istanbul?",
+        "answers": ["Constantinople"],
+        "hint": "It was named after a Roman emperor, Constantine",
+        "note": "And before that, it was called Byzantium."
+      },
+      {
+        "question": "Which country has three capital cities?",
+        "answers": ["South Africa"],
+        "hint": "It's at the very bottom of a continent",
+        "note": "Pretoria, Cape Town, and Bloemfontein each do a different job."
+      },
+      {
+        "question": "What's the capital of Turkey?",
+        "answers": ["Ankara"],
+        "hint": "It's NOT the one from the first question 😉",
+        "note": "Istanbul is bigger, but Ankara has been the capital since 1923."
+      },
+      {
+        "question": "Which country has the biggest Japanese population outside of Japan?",
+        "answers": ["Brazil", "Brasil"],
+        "hint": "It's in South America and they speak Portuguese",
+        "note": "About 2 million Brazilians have Japanese roots."
+      },
+      {
+        "question": "The ancient city of Petra, carved into pink rock cliffs, is in which country?",
+        "answers": ["Jordan"],
+        "hint": "It's in the Middle East, and it's also a common first name",
+        "note": "Indiana Jones and the Last Crusade filmed its ending there."
+      }
+    ]
+  },
+  {
+    "date": "2026-11-09",
+    "theme": "EDM & Pop",
+    "emoji": "🎧",
+    "questions": [
+      {
+        "question": "Which DJ is famous for throwing cakes at fans during his sets?",
+        "answers": ["Steve Aoki", "Aoki"],
+        "hint": "His dad founded the Benihana restaurants 🍤",
+        "note": "you have nice cakes"
+      },
+      {
+        "question": "Which DJ performs in a giant glowing mouse head?",
+        "answers": ["deadmau5", "deadmaus", "dead mau5", "dead maus", "deadmouse", "dead mouse"],
+        "hint": "He's Canadian and spells his name with a 5",
+        "note": "His real name is Joel Zimmerman."
+      },
+      {
+        "question": "What's the name of the giant EDM festival held every summer in Belgium?",
+        "answers": ["Tomorrowland", "Tomorrow Land"],
+        "hint": "It's named after a day that's always one away",
+        "note": "Around 400,000 people go every year, and tickets sell out almost instantly."
+      },
+      {
+        "question": "Whose 2024 album \"brat\" started \"brat summer\"?",
+        "answers": ["Charli XCX", "Charli", "Charlie XCX", "Charlie"],
+        "hint": "She was at ACL",
+        "note": "That lime green album cover was everywhere 💚"
+      },
+      {
+        "question": "Which Swedish DJ made \"Addicted to You\"?",
+        "answers": ["Avicii", "Avici", "Aviici", "Tim Bergling"],
+        "hint": "He also made \"Wake Me Up\" and \"Levels\"",
+        "note": "your fav"
+      }
+    ]
+  },
+  {
+    "date": "2026-11-10",
+    "theme": "Food & Drink",
+    "emoji": "🍕",
+    "questions": [
+      {
+        "question": "What fruit goes in a Black Forest cake?",
+        "answers": ["cherries", "cherry"],
+        "hint": "They're red and come in pairs on a stem 🍒",
+        "note": "It's from Germany, and the real version has cherry brandy in it."
+      },
+      {
+        "question": "What was Pepsi originally called?",
+        "answers": ["Brad's Drink", "Brads Drink"],
+        "hint": "It was named after its inventor, Caleb Bradham",
+        "note": "It got renamed to Pepsi-Cola in 1898."
+      },
+      {
+        "question": "Which country grows most of the world's vanilla?",
+        "answers": ["Madagascar"],
+        "hint": "It's also the name of a movie about zoo animals",
+        "note": "Vanilla comes from an orchid, and every flower is pollinated by hand."
+      },
+      {
+        "question": "What's Wallace and Gromit's favorite kind of cheese?",
+        "answers": ["Wensleydale"],
+        "hint": "It's from Yorkshire and starts with W 🧀",
+        "note": "The films are credited with helping save the cheese's sales."
+      },
+      {
+        "question": "Fugu, the risky Japanese delicacy, is made from which fish?",
+        "answers": ["pufferfish", "puffer fish", "puffer", "blowfish", "blow fish"],
+        "hint": "It blows up into a spiky ball when it's scared",
+        "note": "Chefs need years of training and a special license to serve it."
+      }
+    ]
+  },
+  {
+    "date": "2026-11-11",
+    "theme": "All About Us",
+    "emoji": "💜",
+    "intro": "Today's all about us. No pressure 😌",
+    "questions": [
+      {
+        "question": "Where did we go on our first trip together?",
+        "answers": ["Joshua Tree", "J Tree", "Joshua Tree National Park"],
+        "hint": "🦂",
+        "note": "We freaking bounced out that hoe bro on rainbow road"
+      },
+      {
+        "question": "What was our first rave together?",
+        "answers": ["Day Trip", "Long Beach", "Day Trip Long Beach", "Day Trip Festival"],
+        "hint": "☀️🚢",
+        "note": "Your sniffing skills need to get examined LOL hehe"
+      },
+      {
+        "question": "How many months have we been together?",
+        "answers": ["15 months", "15", "fifteen", "fifteen months", "15 mo", "1 year 3 months", "a year and 3 months", "1 year and 3 months"],
+        "hint": "no hints here hehe",
+        "note": "And many many more to come, i love you!"
+      },
+      {
+        "question": "What's the 2v2 game mode we love in CoD?",
+        "answers": ["Gunfight"],
+        "hint": "gun _____",
+        "note": "LIBRARYYYYYYY"
+      },
+      {
+        "question": "HARD: How many artists have we seen?",
+        "answers": ["At least 10,000", "10,000", "ten thousand", "at least ten thousand", "10k", "at least 10k"],
+        "hint": "Inside joke we have",
+        "note": "bro I dont even know and thats concerning HAHA"
+      }
+    ]
+  },
+  {
+    "date": "2026-11-12",
+    "theme": "Space",
+    "emoji": "🚀",
+    "questions": [
+      {
+        "question": "What's the hottest planet in our solar system?",
+        "answers": ["Venus"],
+        "hint": "It's NOT the one closest to the Sun",
+        "note": "Its thick clouds trap heat, so it stays over 800°F, hotter than Mercury."
+      },
+      {
+        "question": "About how many minutes does it take sunlight to reach Earth?",
+        "answers": ["8", "8 minutes", "eight", "eight minutes", "8 mins", "8 min"],
+        "hint": "Less than 10",
+        "note": "So when you look at the Sun, you're seeing it as it was 8 minutes ago."
+      },
+      {
+        "question": "The moons Miranda, Ariel, Titania, and Oberon orbit which planet?",
+        "answers": ["Uranus"],
+        "hint": "It spins on its side",
+        "note": "Most of its moons are named after characters from Shakespeare."
+      },
+      {
+        "question": "What were the first animals ever sent into space?",
+        "answers": ["fruit flies", "fruit fly", "flies", "fly", "fruitflies"],
+        "hint": "Tiny bugs that love old bananas 🍌",
+        "note": "They went up on a rocket in 1947 and came back alive."
+      },
+      {
+        "question": "How many moons does Pluto have?",
+        "answers": ["5", "five"],
+        "hint": "You can count them on one hand",
+        "note": "The biggest one, Charon, is about half the size of Pluto itself."
+      }
+    ]
+  },
+  {
+    "date": "2026-11-13",
+    "theme": "Pop Culture",
+    "emoji": "📺",
+    "questions": [
+      {
+        "question": "Which TV show starred Blanche, Rose, Dorothy, and Sophia?",
+        "answers": ["The Golden Girls", "Golden Girls"],
+        "hint": "Four roommates in Miami who love cheesecake",
+        "note": "\"Thank you for being a friend…\" 🎶"
+      },
+      {
+        "question": "What fictional town is Parks and Recreation set in?",
+        "answers": ["Pawnee", "Pawnee Indiana"],
+        "hint": "It's in Indiana",
+        "note": "Home of the one and only Li'l Sebastian 🐴"
+      },
+      {
+        "question": "In The Office, who does Michael Scott end up with?",
+        "answers": ["Holly", "Holly Flax"],
+        "hint": "Her name is also a Christmas plant",
+        "note": "They move to Colorado together. Peak romance."
+      },
+      {
+        "question": "What's the name of the teenage witch who lives with her aunts Hilda and Zelda?",
+        "answers": ["Sabrina", "Sabrina Spellman"],
+        "hint": "She has a talking black cat named Salem",
+        "note": "Melissa Joan Hart played her for 7 seasons."
+      },
+      {
+        "question": "In which sitcom do two characters pitch NBC \"a show about nothing\"?",
+        "answers": ["Seinfeld"],
+        "hint": "Jerry, George, Elaine, and Kramer",
+        "note": "Which is basically what Seinfeld itself was."
+      }
+    ]
+  },
+  {
+    "date": "2026-11-14",
+    "theme": "Sports",
+    "emoji": "🏀",
+    "questions": [
+      {
+        "question": "In bowling, what do you call three strikes in a row?",
+        "answers": ["turkey", "a turkey"],
+        "hint": "Gobble gobble",
+        "note": "Twelve in a row is a perfect game: 300 points."
+      },
+      {
+        "question": "In golf, what do you call finishing a hole two under par?",
+        "answers": ["eagle", "an eagle"],
+        "hint": "It's a bird, and bigger than a birdie",
+        "note": "Three under par is called an albatross!"
+      },
+      {
+        "question": "Which boxer bit off part of Evander Holyfield's ear in 1997?",
+        "answers": ["Mike Tyson", "Tyson"],
+        "hint": "Nicknamed \"Iron Mike\"",
+        "note": "They actually made up years later and became friends."
+      },
+      {
+        "question": "Before LA, which city did the Dodgers play in?",
+        "answers": ["Brooklyn", "New York", "New York City", "NYC"],
+        "hint": "It's one of New York City's boroughs",
+        "note": "The name comes from Brooklyn locals dodging trolley cars."
+      },
+      {
+        "question": "Before LA, the Lakers played in which city?",
+        "answers": ["Minneapolis"],
+        "hint": "Minnesota, the \"Land of 10,000 Lakes\"",
+        "note": "That's why LA has a team named after lakes."
+      }
+    ]
+  }
+]

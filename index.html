@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Giddy's Game</title>
+  <link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>💜</text></svg>" />
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link href="https://fonts.googleapis.com/css2?family=Fredoka:wght@500;600&family=Nunito:wght@400;600;700&display=swap" rel="stylesheet" />
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <header>
+    <h1>Giddy's Game<span class="sparkle">✦</span></h1>
+    <p class="date" id="today-date"></p>
+    <p class="streak" id="streak" hidden></p>
+  </header>
+
+  <main id="app">
+    <section class="card loading"><p class="muted">Loading today's questions…</p></section>
+  </main>
+
+  <nav>
+    <button class="link" id="nav-today" type="button">Today</button>
+    <span class="dotsep">·</span>
+    <button class="link" id="nav-archive" type="button">Past days</button>
+  </nav>
+
+
+  <script src="game.js"></script>
+</body>
+</html>

@@ -6,6 +6,8 @@ const NOPES = ["Nope, try again!", "Hmm, not quite…", "Ooh, so close? Maybe? �
 
 const $ = (sel) => document.querySelector(sel);
 const app = $("#app");
+// phones/tablets: the on-screen keyboard is involved, so we smooth out the transition
+const TOUCH = matchMedia("(pointer: coarse)").matches;
 
 // Add ?date=YYYY-MM-DD to the URL to preview a specific day.
 const params = new URLSearchParams(location.search);
@@ -212,10 +214,12 @@ function resolve(k, correct) {
   }
   saveProgress();
   updateStreak();
-  if (correct) confetti();
+
+  // Start closing the keyboard right away, before the screen changes.
+  if (document.activeElement && document.activeElement.blur) document.activeElement.blur();
 
   app.innerHTML = `
-    <section class="card reveal">
+    <section class="card reveal${TOUCH ? " no-pop" : ""}">
       <div class="big">${correct ? "🎉" : "💭"}</div>
       <h2>${correct ? esc(pick(YAYS)) : "Not quite!"}</h2>
       <p class="answer">${correct ? "" : "The answer was "}<strong>${esc(answersOf(q)[0])}</strong></p>
@@ -223,8 +227,13 @@ function resolve(k, correct) {
       <button class="btn" id="next" type="button">${last ? "See my score" : "Next question →"}</button>
     </section>`;
 
+  // Undo the scroll the phone did to keep the text box visible, so nothing jumps.
+  window.scrollTo(0, 0);
+  // Let the keyboard finish sliding away before the confetti starts.
+  if (correct) setTimeout(confetti, TOUCH ? 300 : 0);
+
   const next = $("#next");
-  next.focus();
+  if (!TOUCH) next.focus();
   next.onclick = () => (last ? renderSummary(k, true) : renderQuestion(k));
 }
 

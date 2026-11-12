@@ -34,3 +34,7 @@ Add a new block for each day:
 
 - Run locally with `python3 -m http.server 8000` in this folder, then open http://localhost:8000
 - To preview a specific day, add `?date=2026-11-13` to the URL. Progress is saved per device, so your testing won't affect hers.
+
+## Changing the code (game.js / style.css)
+
+Bump the `?v=` number on both lines in `index.html` (e.g. `?v=2` → `?v=3`) whenever you change `game.js` or `style.css`, so phones and browsers load the new version instead of an old saved copy. Editing `questions.json` doesn't need this.

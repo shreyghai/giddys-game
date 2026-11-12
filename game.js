@@ -163,7 +163,7 @@ function renderQuestion(k) {
           return `<span class="dot ${cls}"></span>`;
         }).join("")}
       </div>
-      <p class="eyebrow">${k !== TODAY ? esc(prettyDate(k)) + " · " : ""}${day.theme ? esc(themeLabel(day)) + " · " : ""}Question ${p.index + 1} of ${total}</p>
+      <p class="eyebrow">${k !== TODAY ? esc(prettyDate(k)) + " · " : ""}${day.theme && k !== TODAY ? esc(themeLabel(day)) + " · " : ""}Question ${p.index + 1} of ${total}</p>
       <h2 class="question">${esc(q.question)}</h2>
       <form id="guess-form" autocomplete="off">
         <input id="guess" type="text" placeholder="Type your answer…" autocapitalize="off" autocorrect="off" spellcheck="false" enterkeyhint="done" />
@@ -389,6 +389,13 @@ $("#today-date").textContent = prettyDate(TODAY);
   days = (Array.isArray(data) ? data : [])
     .filter((d) => d && d.date && Array.isArray(d.questions) && d.questions.length)
     .sort((a, b) => a.date.localeCompare(b.date));
+
+  const todayDay = getDay(TODAY);
+  if (todayDay && todayDay.theme) {
+    const el = $("#today-theme");
+    el.textContent = themeLabel(todayDay);
+    el.hidden = false;
+  }
 
   updateStreak();
   openDay(TODAY);

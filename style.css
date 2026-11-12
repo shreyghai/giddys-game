@@ -259,3 +259,29 @@ footer { margin-top: 28px; color: var(--muted); font-size: 0.85rem; }
 @media (prefers-reduced-motion: reduce) {
   * { animation: none !important; }
 }
+
+/* make the hidden attribute always win (the streak pill sets its own display) */
+[hidden] { display: none !important; }
+
+/* today's theme, under the date */
+.header-theme {
+  margin: 6px 0 0;
+  font-family: "Fredoka", sans-serif;
+  font-weight: 500;
+  font-size: 1.1rem;
+  color: var(--lav-deep);
+}
+
+/* theme intro */
+.intro { text-align: center; }
+.theme-emoji { font-size: 4rem; margin: 14px 0 4px; }
+.intro .theme-name { font-size: 2rem; font-weight: 600; margin: 4px 0 10px; }
+.intro .muted { margin: 0 0 8px; }
+.intro .btn { width: 100%; margin-top: 16px; }
+
+/* past days list */
+.arch-label { display: flex; flex-direction: column; gap: 2px; }
+.arch-theme { font-size: 0.85rem; color: var(--muted); }
+
+/* skip the slide-in on phones so it doesn't fight the keyboard closing */
+.card.no-pop { animation: none; }

@@ -339,34 +339,34 @@
     "emoji": "📺",
     "questions": [
       {
-        "question": "Which TV show starred Blanche, Rose, Dorothy, and Sophia?",
-        "answers": ["The Golden Girls", "Golden Girls"],
-        "hint": "Four roommates in Miami who love cheesecake",
-        "note": "\"Thank you for being a friend…\" 🎶"
+        "question": "Friends: What's the name of Joey's stuffed penguin?",
+        "answers": ["Hugsy", "Hugsie", "Huggsy"],
+        "hint": "Joey doesn't share food, and he doesn't share him either",
+        "note": "Joey's bedtime buddy. Hands off 🐧"
       },
       {
-        "question": "What fictional town is Parks and Recreation set in?",
-        "answers": ["Pawnee", "Pawnee Indiana"],
-        "hint": "It's in Indiana",
-        "note": "Home of the one and only Li'l Sebastian 🐴"
+        "question": "Shameless: What's Lip's real first name?",
+        "answers": ["Phillip", "Philip", "Phil", "Phillip Gallagher", "Philip Gallagher"],
+        "hint": "\"Lip\" is a nickname hiding inside it",
+        "note": "Smartest Gallagher, worst life choices 😭"
       },
       {
-        "question": "In The Office, who does Michael Scott end up with?",
-        "answers": ["Holly", "Holly Flax"],
-        "hint": "Her name is also a Christmas plant",
-        "note": "They move to Colorado together. Peak romance."
+        "question": "George Lopez: What's the name of the airplane parts factory George works at?",
+        "answers": ["Powers Brothers Aviation", "Powers Brothers", "Powers Bros", "Powers Bros Aviation", "Powers Aviation", "Powers"],
+        "hint": "It's named after the family that owns it",
+        "note": "He worked his way up from the factory floor to manager."
       },
       {
-        "question": "What's the name of the teenage witch who lives with her aunts Hilda and Zelda?",
-        "answers": ["Sabrina", "Sabrina Spellman"],
-        "hint": "She has a talking black cat named Salem",
-        "note": "Melissa Joan Hart played her for 7 seasons."
+        "question": "The Office: What's the name of Angela's cat that Dwight puts in the freezer?",
+        "answers": ["Sprinkles"],
+        "hint": "Sounds like something you'd put on ice cream 🍦",
+        "note": "Rest in peace, Sprinkles 🕊️"
       },
       {
-        "question": "In which sitcom do two characters pitch NBC \"a show about nothing\"?",
-        "answers": ["Seinfeld"],
-        "hint": "Jerry, George, Elaine, and Kramer",
-        "note": "Which is basically what Seinfeld itself was."
+        "question": "Parks and Rec: What's the name of Ron Swanson's secret saxophone-playing alter ego?",
+        "answers": ["Duke Silver", "Duke"],
+        "hint": "He's royalty, and he's a shiny metal 🎷",
+        "note": "His biggest fans have no idea he's Ron Swanson."
       }
     ]
   },

@@ -51,13 +51,30 @@ h1 {
   margin: 0;
   letter-spacing: 0.3px;
 }
-h1 .sparkle {
+.title-pic .sparkle {
+  position: absolute;
+  top: -4px;
+  right: -10px;
   color: var(--lav-deep);
-  font-size: 0.55em;
-  vertical-align: super;
-  margin-left: 4px;
+  font-size: 1.4rem;
   display: inline-block;
   animation: twinkle 2.8s ease-in-out infinite;
+}
+
+/* little picture above the title */
+.title-pic {
+  position: relative;
+  display: inline-block;
+  margin-bottom: 6px;
+}
+.title-img {
+  display: block;
+  width: clamp(72px, 20vw, 88px);
+  height: clamp(72px, 20vw, 88px);
+  border-radius: 50%;
+  object-fit: cover;
+  border: 3px solid var(--lav);
+  box-shadow: 0 4px 12px rgba(140, 116, 200, 0.25);
 }
 
 .date { color: var(--muted); margin: 6px 0 0; }

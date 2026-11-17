@@ -406,5 +406,526 @@
         "note": "That's why LA has a team named after lakes."
       }
     ]
+  },
+  {
+    "date": "2026-11-15",
+    "theme": "Cars",
+    "emoji": "🏎️",
+    "questions": [
+      {
+        "question": "Founder August Horch named his car company after the Latin word for \"listen\", because \"horch\" means listen in German. What's the company?",
+        "answers": ["Audi"],
+        "hint": "Four rings 💍",
+        "note": "He couldn't use his own name after leaving his first company, so he translated it."
+      },
+      {
+        "question": "The six stars in Subaru's logo are from which star cluster? (It's what \"Subaru\" means in Japanese.)",
+        "answers": ["Pleiades", "the pleiades", "seven sisters"],
+        "hint": "Also called the Seven Sisters ✨",
+        "note": "You can see it with your naked eye in winter."
+      },
+      {
+        "question": "Which Italian car brand's logo shows a giant serpent swallowing a man?",
+        "answers": ["Alfa Romeo", "Alfa"],
+        "hint": "Its name is a Greek letter plus a guy's last name",
+        "note": "The serpent comes from the coat of arms of Milan's ruling Visconti family."
+      },
+      {
+        "question": "Most supercars put the engine behind the driver but in front of the rear wheels. What's that layout called?",
+        "answers": ["Mid-engine", "mid engine", "mid engined", "mid-engined", "rear mid engine"],
+        "hint": "Not front, not rear… c8 has this",
+        "note": "It puts the weight in the center so the car turns better."
+      },
+      {
+        "question": "What does \"GT\" stand for in car names like the Mustang GT?",
+        "answers": ["Gran Turismo", "Grand Tourer", "Grand Touring", "Gran Tourismo"],
+        "hint": "It's Italian, and also a racing video game 🎮",
+        "note": "It originally meant a fast car comfy enough for long road trips."
+      }
+    ]
+  },
+  {
+    "date": "2026-11-16",
+    "theme": "DJing",
+    "emoji": "🎧",
+    "questions": [
+      {
+        "question": "What's the name of the color-coded circle DJs use to find songs in matching keys?",
+        "answers": ["Camelot Wheel", "Camelot"],
+        "hint": "Same name as King Arthur's castle 🏰",
+        "note": "Every key gets a number and a letter, like 8A. Neighbors on the wheel mix well together."
+      },
+      {
+        "question": "Which Berlin techno club in an old power plant bans photos and has the most famous door policy in the world?",
+        "answers": ["Berghain"],
+        "hint": "Starts with \"Berg\"",
+        "note": "Bouncer Sven Marquardt decides who gets in, and nobody knows the rules."
+      },
+      {
+        "question": "Which Chicago DJ is known as the \"Godfather of House\"?",
+        "answers": ["Frankie Knuckles", "Knuckles"],
+        "hint": "His last name is part of your hand ✊",
+        "note": "House music got its name from The Warehouse, the club where he played."
+      },
+      {
+        "question": "What's deadmau5's real first name?",
+        "answers": ["Joel", "Joel Zimmerman"],
+        "hint": "Rhymes with \"bowl\" 🥣",
+        "note": "His full name is Joel Zimmerman, and he's from Toronto."
+      },
+      {
+        "question": "Ushuaïa, Hï, Amnesia, and Pacha are superclubs on which Spanish island?",
+        "answers": ["Ibiza", "Eivissa"],
+        "hint": "It's in the Balearic Islands 🏝️",
+        "note": "Pacha's two-cherries logo is one of the most famous in clubbing."
+      }
+    ]
+  },
+  {
+    "date": "2026-11-17",
+    "theme": "Words",
+    "emoji": "🔤",
+    "questions": [
+      {
+        "question": "What's the only common English word that ends in \"-mt\"?",
+        "answers": ["Dreamt", "undreamt"],
+        "hint": "It's something you do in your sleep 💤",
+        "note": "\"Undreamt\" is the only other one, and it's built from the same word."
+      },
+      {
+        "question": "What's the official name for the # symbol?",
+        "answers": ["Octothorpe", "octothorp", "octotherp"],
+        "hint": "\"Octo\" means eight, for the eight points sticking out",
+        "note": "Bell Labs engineers came up with the name in the 1960s."
+      },
+      {
+        "question": "What's the little dot over a lowercase i or j called?",
+        "answers": ["Tittle"],
+        "hint": "Rhymes with \"little\"",
+        "note": "It comes from the Latin word \"titulus\", meaning a little mark."
+      },
+      {
+        "question": "What do you call a sentence that uses every letter of the alphabet, like \"The quick brown fox jumps over the lazy dog\"?",
+        "answers": ["Pangram", "pangrams"],
+        "hint": "\"Pan\" means all",
+        "note": "\"Sphinx of black quartz, judge my vow\" is a shorter one."
+      },
+      {
+        "question": "The word \"quarantine\" comes from the Italian for how many days?",
+        "answers": ["40", "forty"],
+        "hint": "Venice made ships wait this long during the plague",
+        "note": "It's from \"quaranta giorni\", meaning forty days."
+      }
+    ]
+  },
+  {
+    "date": "2026-11-18",
+    "theme": "Art",
+    "emoji": "🎨",
+    "questions": [
+      {
+        "question": "Which artist made \"Comedian\", a banana duct-taped to a wall, that sold for $6.2 million in 2024?",
+        "answers": ["Maurizio Cattelan", "Cattelan"],
+        "hint": "He's Italian, first name Maurizio 🍌",
+        "note": "The buyer ate the banana a few days later."
+      },
+      {
+        "question": "Which anonymous street artist's painting shredded itself seconds after selling at auction in 2018?",
+        "answers": ["Banksy"],
+        "hint": "He's from Bristol, and no one knows his real name",
+        "note": "Half shredded, it was renamed \"Love Is in the Bin\" and later sold for over $25 million."
+      },
+      {
+        "question": "When the Mona Lisa was stolen in 1911, which famous painter did police question as a suspect?",
+        "answers": ["Pablo Picasso", "Picasso"],
+        "hint": "He's famous for Cubism and faces painted from every angle at once",
+        "note": "He was innocent. The real thief was a handyman who worked at the Louvre."
+      },
+      {
+        "question": "Frida Kahlo married which Mexican muralist twice?",
+        "answers": ["Diego Rivera", "Rivera", "Diego"],
+        "hint": "First name Diego",
+        "note": "They divorced in 1939 and remarried a year later."
+      },
+      {
+        "question": "Artist Yves Klein patented his own shade of which color?",
+        "answers": ["Blue", "International Klein Blue", "klein blue"],
+        "hint": "Think ocean 🌊",
+        "note": "It's called International Klein Blue, and he made almost 200 paintings in it."
+      }
+    ]
+  },
+  {
+    "date": "2026-11-19",
+    "theme": "Video Games",
+    "emoji": "🎮",
+    "questions": [
+      {
+        "question": "Mario wasn't called Mario in his first game, Donkey Kong (1981). What was he called?",
+        "answers": ["Jumpman", "jump man"],
+        "hint": "It's literally what he does",
+        "note": "He got renamed after Nintendo of America's landlord, Mario Segale."
+      },
+      {
+        "question": "What's the nickname of the guy who created Minecraft?",
+        "answers": ["Notch", "Markus Persson"],
+        "hint": "It's a small cut in something",
+        "note": "He sold Minecraft to Microsoft for $2.5 billion in 2014."
+      },
+      {
+        "question": "What's the name of Link's horse in Zelda?",
+        "answers": ["Epona"],
+        "hint": "It's named after a Celtic horse goddess",
+        "note": "You first call her by playing a song on the Ocarina."
+      },
+      {
+        "question": "Tetris was invented in 1984 in which country?",
+        "answers": ["Soviet Union", "USSR", "Russia", "Soviet Russia"],
+        "hint": "Think Cold War ❄️",
+        "note": "Alexey Pajitnov made it on a government computer in Moscow and didn't earn money from it for years."
+      },
+      {
+        "question": "In Call of Duty Zombies, what's the machine that upgrades your gun?",
+        "answers": ["Pack-a-Punch", "pack a punch", "packapunch", "pack-a-punch machine"],
+        "hint": "It ___ a punch 👊",
+        "note": "Shrey has spent many, many points on this machine."
+      }
+    ]
+  },
+  {
+    "date": "2026-11-20",
+    "theme": "All About Shrey",
+    "emoji": "😎",
+    "intro": "Today's all about me. Let's see how well you know me 😏",
+    "questions": [
+      {
+        "question": "What's the puzzle cube called in Hellraiser?",
+        "answers": ["Lament Configuration", "the lament configuration", "lemarchands box", "lemarchand box", "lemarchand's box", "puzzle box"],
+        "hint": "It sounds like a really sad arrangement",
+        "note": "Solve it and the Cenobites come for you 📦"
+      },
+      {
+        "question": "Who did Shrey say is the best DJ he's ever seen live?",
+        "answers": ["Skrillex", "Sonny Moore"],
+        "hint": "Scary Monsters..",
+        "note": "ACLLLLLLLL"
+      },
+      {
+        "question": "What's the mastery camo in MW4 called?",
+        "answers": ["Orion"],
+        "hint": "It's named after a constellation ✨",
+        "note": "Grinding for it is taking a lot of hours bro"
+      },
+      {
+        "question": "What engine does Shrey's car have?",
+        "answers": ["LS3 V8", "V8", "LS3", "LS3 V-8", "V-8"],
+        "hint": "Eight cylinders 🏎️",
+        "note": "Big Juicy Butt"
+      },
+      {
+        "question": "What tattoo is Shrey getting in January?",
+        "answers": ["Mace", "a mace"],
+        "hint": "It's a medieval weapon with spikes",
+        "note": "Coming January.. On the back of my left arm!!"
+      }
+    ]
+  },
+  {
+    "date": "2026-11-21",
+    "theme": "Music Production",
+    "emoji": "🎛️",
+    "intro": "Studio nerd stuff today. These are tougher!! you got this babe",
+    "questions": [
+      {
+        "question": "Which DAW used to be called FruityLoops?",
+        "answers": ["FL Studio", "FL", "Fruity Loops", "FruityLoops"],
+        "hint": "Its initials are a US state 🌴",
+        "note": "Martin Garrix made Animals in it when he was a teenager."
+      },
+      {
+        "question": "Dubstep is usually made at what BPM?",
+        "answers": ["140", "140 bpm", "140bpm", "70", "70 bpm"],
+        "hint": "Somewhere between 130 and 150",
+        "note": "It feels slower because the snare hits on beat 3. That is called a half time feel."
+      },
+      {
+        "question": "Producers put OTT, an extreme multiband compressor, on basically everything. What does OTT stand for?",
+        "answers": ["Over the Top", "over the top compression"],
+        "hint": "A phrase that means way too much",
+        "note": "It started as an Ableton preset. Xfer (the Serum guys) later put out a free plugin version."
+      },
+      {
+        "question": "The most sampled drum loop ever, the backbone of jungle and drum & bass, is called the ___ break.",
+        "answers": ["Amen", "Amen break", "amen brother"],
+        "hint": "What you say at the end of a prayer 🙏",
+        "note": "It is a 6-second drum solo from The Winstons' 1969 song Amen, Brother. The drummer never got paid for it."
+      },
+      {
+        "question": "The squelchy Roland TB-303 synth basically created which style of house music?",
+        "answers": ["Acid house", "acid", "acid techno"],
+        "hint": "Sounds like something from a chemistry lab 🧪",
+        "note": "The 303 flopped as a bass player replacement, so it got cheap secondhand and Chicago producers snapped it up."
+      }
+    ]
+  },
+  {
+    "date": "2026-11-22",
+    "theme": "Human Body",
+    "emoji": "🫀",
+    "questions": [
+      {
+        "question": "Which part of your body has no blood supply and gets its oxygen straight from the air?",
+        "answers": ["Cornea", "the cornea", "corneas"],
+        "hint": "It's the clear front layer of your eye 👁️",
+        "note": "Blood vessels would block your vision, so it takes oxygen from the air instead."
+      },
+      {
+        "question": "Your \"funny bone\" isn't a bone. Which nerve is it?",
+        "answers": ["Ulnar nerve", "ulnar"],
+        "hint": "Your forearm has two bones, the radius and the ______",
+        "note": "It's barely padded at the elbow, so hitting it zaps all the way to your pinky."
+      },
+      {
+        "question": "Which organ can grow back from as little as 25% of itself?",
+        "answers": ["Liver", "the liver"],
+        "hint": "It filters your blood and handles alcohol 🍷",
+        "note": "That's why people can donate part of theirs while they're alive."
+      },
+      {
+        "question": "What's the dangly bit at the back of your throat called?",
+        "answers": ["Uvula"],
+        "hint": "Starts with U",
+        "note": "It helps stop food from going up your nose when you swallow."
+      },
+      {
+        "question": "What's the name for the smooth spot between your eyebrows?",
+        "answers": ["Glabella"],
+        "hint": "Starts with \"gla\"",
+        "note": "It comes from the Latin for smooth or hairless."
+      }
+    ]
+  },
+  {
+    "date": "2026-11-23",
+    "theme": "The Ocean",
+    "emoji": "🌊",
+    "questions": [
+      {
+        "question": "What's the fastest fish in the ocean?",
+        "answers": ["Sailfish", "sail fish"],
+        "hint": "It has a big fin on its back like a boat ⛵",
+        "note": "It's been clocked at close to 70 mph."
+      },
+      {
+        "question": "Which ocean animal has the biggest eyes of any creature, each about the size of a dinner plate?",
+        "answers": ["Colossal squid", "giant squid", "squid"],
+        "hint": "It has tentacles 🦑",
+        "note": "They're big so it can spot sperm whales coming in the dark."
+      },
+      {
+        "question": "What's a group of jellyfish called?",
+        "answers": ["Smack", "a smack", "bloom", "swarm"],
+        "hint": "It's also a word for a slap 👋",
+        "note": "A really big group is also called a bloom."
+      },
+      {
+        "question": "Which shark can live around 400 years, making it the longest-living vertebrate?",
+        "answers": ["Greenland shark", "greenland"],
+        "hint": "It lives in icy Arctic water near a big island",
+        "note": "Some alive today were probably born before the US existed."
+      },
+      {
+        "question": "Which sea is the only one with no coastline at all?",
+        "answers": ["Sargasso Sea", "Sargasso"],
+        "hint": "It's in the Atlantic, near Bermuda",
+        "note": "It's held in place by ocean currents and is full of floating seaweed."
+      }
+    ]
+  },
+  {
+    "date": "2026-11-24",
+    "theme": "Inventions",
+    "emoji": "💡",
+    "questions": [
+      {
+        "question": "Play-Doh was first sold as a cleaner for what?",
+        "answers": ["Wallpaper", "wall paper", "walls"],
+        "hint": "It's something you'd find on walls",
+        "note": "Coal heaters left soot on walls. When people switched to gas, sales dropped, so they sold it as a toy instead."
+      },
+      {
+        "question": "Which soda was first sold by a pharmacist as a medicine in 1886?",
+        "answers": ["Coca-Cola", "Coke", "coca cola"],
+        "hint": "Red can 🥤",
+        "note": "John Pemberton claimed it cured headaches and tiredness."
+      },
+      {
+        "question": "Who invented the World Wide Web in 1989?",
+        "answers": ["Tim Berners-Lee", "Berners-Lee", "Tim Berners Lee", "Berners Lee"],
+        "hint": "First name Tim, and he's British",
+        "note": "He gave it away for free and never patented it."
+      },
+      {
+        "question": "Which toy came from an engineer who was trying to make springs to keep ship equipment steady?",
+        "answers": ["Slinky", "slinkies"],
+        "hint": "It walks down stairs on its own",
+        "note": "Richard James knocked a spring off a shelf, watched it \"walk\", and got the idea."
+      },
+      {
+        "question": "What was the very first product ever scanned with a barcode, in 1974?",
+        "answers": ["Gum", "chewing gum", "Juicy Fruit", "Wrigley's gum", "Wrigleys", "pack of gum"],
+        "hint": "You chew it",
+        "note": "It was a 10-pack of Wrigley's Juicy Fruit, now in the Smithsonian."
+      }
+    ]
+  },
+  {
+    "date": "2026-11-25",
+    "theme": "Mythology",
+    "emoji": "🏛️",
+    "questions": [
+      {
+        "question": "Which Greek god was thrown off Mount Olympus as a baby and grew up to be the gods' blacksmith?",
+        "answers": ["Hephaestus", "Hephaistos", "Vulcan"],
+        "hint": "The Romans called him Vulcan 🔨",
+        "note": "He made Achilles' armor and the chains that bound Prometheus."
+      },
+      {
+        "question": "What's the name of Odin's eight-legged horse?",
+        "answers": ["Sleipnir"],
+        "hint": "Starts with \"Sleip\"",
+        "note": "Loki is technically its mother. Norse myths are wild."
+      },
+      {
+        "question": "Which Egyptian god of the dead had the head of a jackal?",
+        "answers": ["Anubis"],
+        "hint": "Starts with A",
+        "note": "He weighed people's hearts against a feather to judge them."
+      },
+      {
+        "question": "In the original Greek myth, Pandora didn't have a box. What did she actually open?",
+        "answers": ["Jar", "a jar", "pot", "vase", "urn"],
+        "hint": "Something you'd store olive oil or wine in 🏺",
+        "note": "\"Box\" came from a translation mistake in the 1500s."
+      },
+      {
+        "question": "Who's the boatman who ferries the dead across the river Styx?",
+        "answers": ["Charon"],
+        "hint": "Same name as Pluto's biggest moon 🌑",
+        "note": "That's why Greeks were buried with a coin, to pay him."
+      }
+    ]
+  },
+  {
+    "date": "2026-11-26",
+    "theme": "Thanksgiving",
+    "emoji": "🦃",
+    "intro": "Happy Thanksgiving!! 🥧",
+    "questions": [
+      {
+        "question": "TV dinners were invented after Swanson was stuck with 260 tons of leftover what after Thanksgiving 1953?",
+        "answers": ["Turkey", "turkeys"],
+        "hint": "Gobble gobble",
+        "note": "They sold it on aluminum trays that looked like TV sets."
+      },
+      {
+        "question": "Which writer of \"Mary Had a Little Lamb\" spent 17 years campaigning for Thanksgiving to become a national holiday?",
+        "answers": ["Sarah Josepha Hale", "Sarah Hale", "Hale"],
+        "hint": "First name Sarah",
+        "note": "She wrote letters to five presidents before Lincoln finally said yes."
+      },
+      {
+        "question": "Which president moved Thanksgiving a week earlier to boost holiday shopping, earning it the nickname \"Franksgiving\"?",
+        "answers": ["Franklin D. Roosevelt", "Franklin Roosevelt", "FDR", "Roosevelt", "Franklin Delano Roosevelt"],
+        "hint": "\"Frank\"sgiving 👀",
+        "note": "People hated it so much that Congress set it as the fourth Thursday in 1941."
+      },
+      {
+        "question": "Which Native American tribe shared the 1621 harvest feast with the Pilgrims?",
+        "answers": ["Wampanoag"],
+        "hint": "Starts with \"Wampa\"",
+        "note": "Their leader Massasoit brought about 90 men to the feast."
+      },
+      {
+        "question": "Which NFL team has played on Thanksgiving almost every year since 1934?",
+        "answers": ["Detroit Lions", "Lions", "Detroit"],
+        "hint": "They're from Motor City 🦁",
+        "note": "The only years they missed were 1939 to 1944, around WWII."
+      }
+    ]
+  },
+  {
+    "date": "2026-11-27",
+    "theme": "Disney & Pixar",
+    "emoji": "🏰",
+    "questions": [
+      {
+        "question": "What's the name of the space-themed pizza place in Toy Story?",
+        "answers": ["Pizza Planet"],
+        "hint": "Where the claw machine aliens live 👽",
+        "note": "Its delivery truck shows up in almost every Pixar movie."
+      },
+      {
+        "question": "In The Incredibles, what does Edna Mode refuse to put on super suits?",
+        "answers": ["Capes", "cape"],
+        "hint": "NO ___S, dahling!",
+        "note": "She lists heroes who died because their capes got caught in things."
+      },
+      {
+        "question": "In Monsters, Inc., what's Boo's real name, written on one of her drawings?",
+        "answers": ["Mary"],
+        "hint": "Same name as her voice actress, and a little lamb 🐑",
+        "note": "Her voice actress, Mary Gibbs, was just two when they recorded her."
+      },
+      {
+        "question": "What's the name of the hopping desk lamp in the Pixar logo?",
+        "answers": ["Luxo Jr.", "Luxo Jr", "Luxo", "Luxo Junior"],
+        "hint": "It's named after a real lamp brand, plus \"Jr.\"",
+        "note": "It starred in Pixar's first short film in 1986."
+      },
+      {
+        "question": "What's the name of the scary food critic in Ratatouille?",
+        "answers": ["Anton Ego", "Ego"],
+        "hint": "His last name is a word for how much someone thinks of themselves",
+        "note": "His office is shaped like a coffin."
+      }
+    ]
+  },
+  {
+    "date": "2026-11-28",
+    "theme": "Throwback 2000s",
+    "emoji": "💿",
+    "questions": [
+      {
+        "question": "What's the name of the high school in Mean Girls?",
+        "answers": ["North Shore High", "North Shore", "North Shore High School"],
+        "hint": "It's in the suburbs of Chicago, on a lake shore",
+        "note": "It's set in the Chicago suburbs, but most of it was filmed in Toronto."
+      },
+      {
+        "question": "What was the name of Paris Hilton's famous chihuahua?",
+        "answers": ["Tinkerbell", "Tinker Bell", "Tink"],
+        "hint": "Same name as Peter Pan's fairy 🧚",
+        "note": "She rode around in Paris's purse for years."
+      },
+      {
+        "question": "Which 2000s website, where people rated each other's photos, helped inspire both YouTube and Facebook?",
+        "answers": ["Hot or Not", "hotornot", "hot or not com"],
+        "hint": "___ or ___",
+        "note": "Mark Zuckerberg's first site, Facemash, copied the idea."
+      },
+      {
+        "question": "Which big-headed fashion dolls with \"a passion for fashion\" took on Barbie in 2001?",
+        "answers": ["Bratz", "brats"],
+        "hint": "It sounds like an annoying kid",
+        "note": "They outsold Barbie in some countries."
+      },
+      {
+        "question": "Which band released \"Mr. Brightside\" in 2003?",
+        "answers": ["The Killers", "Killers"],
+        "hint": "They're from Las Vegas 🎰",
+        "note": "It's spent more than 8 years on the UK charts."
+      }
+    ]
   }
 ]

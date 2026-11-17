@@ -1,5 +1,6 @@
 const STORAGE_KEY = "giddys-game-v2";
 const MAX_TRIES = 3;
+const ARCHIVE_DAYS = 7;
 
 const YAYS = ["Yes!! 🎉", "You got it!", "Correct, genius 💜", "Nailed it!", "Of course you knew that 😌"];
 const NOPES = ["Nope, try again!", "Hmm, not quite…", "Ooh, so close? Maybe? 🙈", "Think harder 🤔"];
@@ -272,7 +273,10 @@ function renderSummary(k, justFinished = false) {
 }
 
 function renderArchive() {
-  const past = days.filter((d) => d.date <= TODAY).reverse();
+  // Only the last week (today + the 6 days before it) shows up here.
+  const [ty, tm, td] = TODAY.split("-").map(Number);
+  const cutoff = dateKey(new Date(ty, tm - 1, td - (ARCHIVE_DAYS - 1)));
+  const past = days.filter((d) => d.date <= TODAY && d.date >= cutoff).reverse();
   app.innerHTML = `
     <section class="card">
       <h2 class="title">Past days</h2>
